@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:pink ;
+    border:20px solid pink;
+    border-radius:20px ;
+}
+
+header img {
+    border: 1px solid yellow;
+    border-radius:20px;
+}
+
+header a {
+    color: palevioletred;
+    border:3px solid  white;
+    border-radius:10px;
+}
+
+h1 {
+    color: pink;
+}
+
+footer {
+    background-color:pink;
+    border:3px solid pink;
+    border-radius:10px;
+}
+
+footer p {
+    background-color:white ;
+}
+
+nav {
+    color:pink;
+    text-decoration:none;
+    border:2px solid pink;
+
+}
+
+.inter {
+    background-color:pink;
+    border:10px solid pink;
+    border-radius: 10px;
+
+}
+
+h2 {
+    color:pink;
+}
